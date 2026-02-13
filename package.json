@@ -5,10 +5,10 @@
   "dependencies": {
     "d3": "^5.9.7",
     "d3-geo-projection": "^2.7.0",
-    "d3-node": "^2.2.0",
+    "d3-node": "^4.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
